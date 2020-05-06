@@ -1,6 +1,7 @@
 # natas
 
 natas url, donde X es un número
+\
 http://natasX.natas.labs.overthewire.org
 
 for example:
